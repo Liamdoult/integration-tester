@@ -1,0 +1,2 @@
+class ReadyTimeout(Exception):
+    pass
